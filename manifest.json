@@ -12,7 +12,7 @@
         "changelog": "Initial release of Consistart.",
         "targetAbi": "10.9.0.0",
         "sourceUrl": "https://github.com/davidambler/Consistart/releases/download/0.1/Jellyfin.Plugin.Consistart.zip",
-        "checksum": "F61305716ED75BFEC7AFAFB9CBA38F45C7748BD1C9F8A187A94040E03D4428D8"
+        "checksum": "25AD851BAC6C289284114CBC2E521A31"
       }
     ]
   }
